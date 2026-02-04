@@ -1,5 +1,9 @@
 # Diseño de la Base de Datos: Sistema de Auditoría AI-Compliance-Sentinel
 
+
+
+
+
 ## 1. Introducción
 
 Este documento detalla el diseño de la base de datos para el proyecto de pasantía **AI-Compliance-Sentinel**.  
