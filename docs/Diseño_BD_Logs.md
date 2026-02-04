@@ -1,4 +1,4 @@
-# Diseño de la Base de Datos: Sistema de Auditoría AI-Compliance-Sentinel
+## Diseño de la Base de Datos: Sistema de Auditoría AI-Compliance-Sentinel
 
 
 
@@ -6,6 +6,9 @@
 
 ## 1. Introducción
 
+
+
+s
 Este documento detalla el diseño de la base de datos para el proyecto de pasantía **AI-Compliance-Sentinel**.  
 La base de datos tiene como objetivo principal servir como un **almacén de evidencia de auditoría inmutable**.
 
